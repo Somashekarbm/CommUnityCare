@@ -1,0 +1,7 @@
+labels->class predicted so far
+
+0 -> plastic/biodegradable waste
+1-> cardboard waste
+3-> metal waste
+
+5->plastic bottles/stickers/papers/paper cups
